@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tableView(_:cellForRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.lblOneVal.text ">
+            </PersistentString>
+            <PersistentString
+               value = "arrCalculatedRates[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "selCurCode">
+            </PersistentString>
+            <PersistentString
+               value = "arrCalculatedRates">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.calculateRate():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rate.exchRate">
+            </PersistentString>
+            <PersistentString
+               value = "selCurCode">
+            </PersistentString>
+            <PersistentString
+               value = "arrCalculatedRates">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.fetchAllRooms():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " response.data">
+            </PersistentString>
+            <PersistentString
+               value = "swiftyJsonVar[&quot;currencies&quot;].arrayValue">
+            </PersistentString>
+            <PersistentString
+               value = " swiftyJsonVar[&quot;currencies&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "swiftyJsonVar[&quot;currencies&quot;].dictionary">
+            </PersistentString>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
